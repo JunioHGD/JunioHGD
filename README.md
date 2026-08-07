@@ -31,13 +31,6 @@ Busco oportunidades de estágio ou posições iniciais em desenvolvimento de sof
 - APIs REST
 - Java como etapa posterior da formação
 
-<!--
-Node.js, bancos de dados, APIs REST e Java aparecem como direcionamento.
-
-Adicione badges dessas tecnologias somente quando você já estiver
-estudando, praticando e publicando códigos relacionados a elas.
--->
-
 ## Projetos e laboratórios
 
 ### Logic & JavaScript Lab
@@ -48,7 +41,7 @@ O laboratório reúne exercícios, atividades práticas, questionários e pequen
 
 - **Tecnologia principal:** JavaScript
 - **Status:** Em desenvolvimento
-- **Repositório:** [Acessar o Logic & JavaScript Lab]([INSIRA_A_URL])
+- **Repositório:** [Acessar o Logic & JavaScript Lab]([https://github.com/JunioHGD/fullstack-learning-lab/tree/main/logic-javascript-lab])
 
 ## Contato
 
