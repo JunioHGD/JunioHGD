@@ -45,5 +45,5 @@ O laboratório reúne exercícios, atividades práticas, questionários e pequen
 
 ## Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil%20profissional-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/júnio-henrique-dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil%20profissional-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/júnio-henrique-dev/)
 [![E-mail](https://img.shields.io/badge/E--mail-Entrar%20em%20contato-555555?style=flat-square)](mailto:junio.dev@outlook.com.br)
