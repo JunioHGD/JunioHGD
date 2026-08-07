@@ -41,9 +41,9 @@ O laboratório reúne exercícios, atividades práticas, questionários e pequen
 
 - **Tecnologia principal:** JavaScript
 - **Status:** Em desenvolvimento
-- **Repositório:** [Acessar o Logic & JavaScript Lab]([https://github.com/JunioHGD/fullstack-learning-lab/tree/main/logic-javascript-lab])
+- **Repositório:** [Acessar o Logic & JavaScript Lab](https://github.com/JunioHGD/fullstack-learning-lab/tree/main/logic-javascript-lab)
 
 ## Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil%20profissional-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([www.linkedin.com/in/júnio-henrique-dev])
-[![E-mail](https://img.shields.io/badge/E--mail-Entrar%20em%20contato-555555?style=flat-square)](mailto:[junio.dev@outlook.com.br])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil%20profissional-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/júnio-henrique-dev)
+[![E-mail](https://img.shields.io/badge/E--mail-Entrar%20em%20contato-555555?style=flat-square)](mailto:junio.dev@outlook.com.br)
