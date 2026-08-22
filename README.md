@@ -1,50 +1,63 @@
 # Olá, eu sou Júnio Henrique 👋
 
-Sou estudante de **Engenharia de Software** e direciono minha formação para o desenvolvimento **full stack**, com ênfase em **back-end**.
+Sou estudante de **Engenharia de Software** e direciono minha formação para o desenvolvimento **full stack**, com ênfase futura em **back-end**.
 
-Atualmente, consolido meus fundamentos em lógica de programação, JavaScript, HTML e CSS. Também possuo conhecimentos básicos em manipulação do DOM.
+Atualmente, consolido fundamentos de **lógica de programação, JavaScript, HTML e CSS** por meio de laboratórios progressivos de estudo e prática. Também utilizo **Git e GitHub** para versionamento e organização dos projetos.
 
-Meu próximo direcionamento técnico será o desenvolvimento back-end com **JavaScript e Node.js**. Posteriormente, pretendo ampliar minha formação com o estudo de **Java**.
+Meu próximo direcionamento técnico é o desenvolvimento back-end com **JavaScript e Node.js**, avançando posteriormente para **APIs REST, bancos de dados e aplicações full stack**. Em uma etapa posterior, pretendo ampliar minha formação com **Java**.
 
-Busco oportunidades de estágio ou posições iniciais em desenvolvimento de software, especialmente nas áreas de back-end e desenvolvimento web.
+Busco oportunidades de estágio e posições iniciais em desenvolvimento de software, especialmente relacionadas a desenvolvimento Web e back-end.
+
+## Navegação
+
+[**Foundations Labs**](#foundations-labs) · [**Tecnologias e conhecimentos**](#tecnologias-e-conhecimentos) · [**Formação acadêmica**](#formação-acadêmica) · [**Contato**](#contato)
+
+[![Programming Logic](https://img.shields.io/badge/Programming%20Logic-Foundations-4B5563?style=flat-square)](https://github.com/JunioHGD/programming-logic-foundations-lab)
+[![HTML](https://img.shields.io/badge/HTML-Foundations-E34F26?style=flat-square&logo=html5&logoColor=white)](https://github.com/JunioHGD/html-foundations-lab)
+[![CSS](https://img.shields.io/badge/CSS-Foundations-1572B6?style=flat-square&logo=css3&logoColor=white)](https://github.com/JunioHGD/css-foundations-lab)
+[![JavaScript](https://img.shields.io/badge/JavaScript-Foundations-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://github.com/JunioHGD/javascript--foundations-lab)
+
+## Foundations Labs
+
+Os **Foundations Labs** organizam minha formação prática nos fundamentos de programação e desenvolvimento Web. Cada Lab possui currículo próprio, prática progressiva, checkpoints e projetos; HTML, CSS e JavaScript também possuem atividades de **Web Integration**.
+
+| Lab | Foco | Navegação |
+|---|---|---|
+| **Programming Logic Foundations Lab** | Raciocínio computacional, algoritmos, estruturas de controle, dados, testes e debugging. | [Lab](https://github.com/JunioHGD/programming-logic-foundations-lab) · [Currículo](https://github.com/JunioHGD/programming-logic-foundations-lab/blob/main/curriculum/curriculum.md) · [Prática](https://github.com/JunioHGD/programming-logic-foundations-lab/tree/main/practice) · [Projetos](https://github.com/JunioHGD/programming-logic-foundations-lab/tree/main/projects) |
+| **HTML Foundations Lab** | Estrutura documental, semântica, hipertexto, conteúdo, tabelas, formulários e acessibilidade nativa. | [Lab](https://github.com/JunioHGD/html-foundations-lab) · [Currículo](https://github.com/JunioHGD/html-foundations-lab/blob/main/curriculum/curriculum.md) · [Prática](https://github.com/JunioHGD/html-foundations-lab/tree/main/practice) · [Web Integration](https://github.com/JunioHGD/html-foundations-lab/tree/main/web-integration) · [Projetos](https://github.com/JunioHGD/html-foundations-lab/tree/main/projects) |
+| **CSS Foundations Lab** | Cascata, box model, fluxo, posicionamento, Flexbox, Grid, responsividade e qualidade de layout. | [Lab](https://github.com/JunioHGD/css-foundations-lab) · [Currículo](https://github.com/JunioHGD/css-foundations-lab/blob/main/curriculum/curriculum.md) · [Prática](https://github.com/JunioHGD/css-foundations-lab/tree/main/practice) · [Web Integration](https://github.com/JunioHGD/css-foundations-lab/tree/main/web-integration) · [Projetos](https://github.com/JunioHGD/css-foundations-lab/tree/main/projects) |
+| **JavaScript Foundations Lab** | Tipos, coerção, escopo, funções, closures, objetos, protótipos, módulos, erros e assincronismo. | [Lab](https://github.com/JunioHGD/javascript--foundations-lab) · [Currículo](https://github.com/JunioHGD/javascript--foundations-lab/blob/main/curriculum/curriculum.md) · [Prática](https://github.com/JunioHGD/javascript--foundations-lab/tree/main/practice) · [Web Integration](https://github.com/JunioHGD/javascript--foundations-lab/tree/main/web-integration) · [Projetos](https://github.com/JunioHGD/javascript--foundations-lab/tree/main/projects) |
 
 ## Tecnologias e conhecimentos
 
-### Em consolidação
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+- **Lógica de programação:** resolução de problemas, algoritmos, estruturas de controle, funções, estruturas de dados e debugging.
+- **JavaScript:** fundamentos da linguagem, escopo, funções, objetos, módulos, tratamento de erros e assincronismo.
+- **HTML:** estrutura documental, semântica, acessibilidade nativa, tabelas e formulários.
+- **CSS:** cascata, box model, fluxo, layout, responsividade e acessibilidade visual.
+- **DOM:** conhecimentos básicos de manipulação e integração com JavaScript.
+- **Git e GitHub:** controle de versão e organização de repositórios.
 
-- **JavaScript:** lógica de programação e fundamentos da linguagem
-- **HTML:** estrutura documental, semântica e fundamentos da Web
-- **CSS:** cascata, estilização, layout e responsividade
-- **DOM:** conhecimentos básicos de manipulação
-- **Git e GitHub:** controle de versão e organização de projetos
+### Direcionamento técnico
 
-### Direcionamento dos estudos
+- desenvolvimento back-end com **Node.js**;
+- construção de **APIs REST**;
+- **bancos de dados**;
+- aplicações **full stack**;
+- **Java** como etapa posterior da formação.
 
-- Desenvolvimento back-end com **Node.js**
-- Construção de **APIs REST**
-- **Bancos de dados**
-- Aplicações **full stack**
-- **Java** como etapa posterior da formação
+## Formação acadêmica
 
-## Projetos e laboratórios
+Meu repositório de atividades acadêmicas reúne materiais e trabalhos relacionados à graduação em Engenharia de Software:
 
-### Foundations Labs
-
-Os **Foundations Labs** organizam meus estudos e a prática dos fundamentos de programação e desenvolvimento Web.
-
-- [**JavaScript & Programming Foundations Lab**](https://github.com/JunioHGD/javascript-programming-foundations-lab) — ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Status](https://img.shields.io/badge/Status-Em%20estudo-2EA44F?style=flat-square)  
-  Lógica de programação e fundamentos do JavaScript, com foco em raciocínio, execução e resolução de problemas.
-
-- [**HTML Foundations Lab**](https://github.com/JunioHGD/html-foundations-lab) — ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![Status](https://img.shields.io/badge/Status-A%20iniciar-6E7781?style=flat-square)  
-  Fundamentos de HTML com foco em estrutura documental, semântica, hipertexto e acessibilidade nativa.
-
-- [**CSS Foundations Lab**](https://github.com/JunioHGD/css-foundations-lab) — ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white) ![Status](https://img.shields.io/badge/Status-A%20iniciar-6E7781?style=flat-square)  
-  Fundamentos de CSS envolvendo cascata, caixas, fluxo, layout, responsividade e acessibilidade visual.
-
-Atualmente, meu foco está no **JavaScript & Programming Foundations Lab**. Os Labs de HTML e CSS já estão estruturados e serão iniciados posteriormente.
+[**Software Engineering Coursework →**](https://github.com/JunioHGD/unitoledo-software-engineering-coursework)
 
 ## Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil%20profissional-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/júnio-henrique-dev/) [![E-mail](https://img.shields.io/badge/E--mail-Entrar%20em%20contato-555555?style=flat-square)](mailto:junio.dev@outlook.com.br)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil%20profissional-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/júnio-henrique-dev/)
+[![E-mail](https://img.shields.io/badge/E--mail-Entrar%20em%20contato-555555?style=flat-square)](mailto:junio.dev@outlook.com.br)
