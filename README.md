@@ -1,8 +1,6 @@
 # Olá, eu sou Júnio Henrique 👋
 
-<p align="center">
-  <img src="./assets/martial-arts-banner.webp" alt="Banner artístico inspirado em artes marciais" width="100%">
-</p>
+<img align="right" src="./assets/martial-arts-profile.webp" alt="Arte inspirada em artes marciais" width="280">
 
 Sou estudante de **Engenharia de Software** e estou construindo minha formação profissional em **desenvolvimento Web full stack**, com direcionamento progressivo para **back-end**.
 
@@ -11,6 +9,8 @@ Atualmente, concentro meus estudos na consolidação dos fundamentos de **lógic
 Utilizo este perfil para registrar minha evolução técnica, organizar práticas e projetos e construir evidências públicas do que venho aprendendo e implementando.
 
 Busco oportunidades de **estágio e posições iniciais em desenvolvimento de software**, especialmente relacionadas a desenvolvimento Web e back-end.
+
+<br clear="right">
 
 ## Tecnologias e conhecimentos
 
