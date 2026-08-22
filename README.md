@@ -1,7 +1,7 @@
 # Olá, eu sou Júnio Henrique 👋
 
 <p align="center">
-  <img src="./assets/martial-arts-banner.jpg" alt="Banner artístico inspirado em artes marciais" width="100%">
+  <img src="./assets/martial-arts-banner.webp" alt="Banner artístico inspirado em artes marciais" width="100%">
 </p>
 
 Sou estudante de **Engenharia de Software** e estou construindo minha formação profissional em **desenvolvimento Web full stack**, com direcionamento progressivo para **back-end**.
