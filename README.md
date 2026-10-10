@@ -12,6 +12,12 @@ Busco oportunidades de **estágio e posições iniciais em desenvolvimento de so
 
 <br clear="right">
 
+## Portfólio
+
+Conheça meu portfólio e acompanhe os projetos que venho desenvolvendo durante minha formação em desenvolvimento Web.
+
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-Acessar%20site-2563EB?style=flat-square)](https://junio-dev.netlify.app/)
+
 ## Tecnologias e conhecimentos
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
