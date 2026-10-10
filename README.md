@@ -4,7 +4,7 @@
 
 Sou estudante de **Engenharia de Software**, com foco em desenvolvimento Web e o objetivo de me especializar em **back-end**. Gosto de entender como as coisas funcionam e transformar esse aprendizado em código, uma prática de cada vez.
 
-Este perfil reúne meus estudos, experimentos e projetos — um registro do que estou aprendendo e construindo. Busco minha primeira oportunidade profissional em desenvolvimento de software, em **estágio ou posições iniciais**.
+Este perfil reúne meus estudos, experimentos e projetos — um registro do que estou aprendendo e construindo. Busco oportunidades de **estágio ou posições iniciais em desenvolvimento de software**.
 
 **Conheça meu trabalho ou vamos conversar:**
 
